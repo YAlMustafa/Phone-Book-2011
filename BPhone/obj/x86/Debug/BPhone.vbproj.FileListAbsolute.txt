@@ -1,0 +1,35 @@
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\bin\Debug\BPhone.exe
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\bin\Debug\BPhone.pdb
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\bin\Debug\BPhone.xml
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\obj\x86\Debug\BPhone.Form1.resources
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\obj\x86\Debug\BPhone.Resources.resources
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\obj\x86\Debug\BPhone.exe
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\obj\x86\Debug\BPhone.xml
+C:\Users\Mustafa\AppData\Local\Temporary Projects\BPhone\obj\x86\Debug\BPhone.pdb
+E:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.exe
+E:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.xml
+E:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.pdb
+E:\Yamen\BPhone\BPhone\bin\Debug\BPhone.exe
+E:\Yamen\BPhone\BPhone\bin\Debug\BPhone.pdb
+E:\Yamen\BPhone\BPhone\bin\Debug\BPhone.xml
+E:\Yamen\BPhone\BPhone\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.Form1.resources
+E:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.Resources.resources
+E:\Yamen\BPhone\BPhone\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Yamen\BPhone\BPhone\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.exe
+D:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.xml
+D:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.pdb
+D:\Yamen\BPhone\BPhone\bin\Debug\BPhone.exe
+D:\Yamen\BPhone\BPhone\bin\Debug\BPhone.pdb
+D:\Yamen\BPhone\BPhone\bin\Debug\BPhone.xml
+D:\Yamen\BPhone\BPhone\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.Resources.resources
+D:\Yamen\BPhone\BPhone\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Yamen\BPhone\BPhone\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.FormMain.resources
+D:\Yamen\BPhone\BPhone\obj\x86\Debug\GenerateResource.write.541.tlog
+D:\Yamen\BPhone\BPhone\obj\x86\Debug\BPhone.FrmEdit.resources
